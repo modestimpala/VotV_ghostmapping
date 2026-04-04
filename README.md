@@ -1,3 +1,5 @@
+Currently targets: `a09j_0001`
+
 Original repo by NynrahGhost
 
 # Voices of the Void recreation for ghostreferencing 

@@ -1,6 +1,6 @@
 Currently targets: `a09j_0001`
 
-Original repo by NynrahGhost
+Archived Original repo by NynrahGhost
 
 # Voices of the Void recreation for ghostreferencing 
 Some stuff can take considerable amount of time to remap, especially if assets depend on each other. To save your time, and possibly open you to more game mechanics you didn't know about, this project will be populated from time to time with new entries.</li></li>
